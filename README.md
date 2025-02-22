@@ -1,1 +1,1 @@
-# Dental-App-Major
+# Tulip dental clinic
