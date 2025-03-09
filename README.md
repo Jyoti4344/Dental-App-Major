@@ -1,2 +1,2 @@
 # Tulip dental clinic
-Comprehensive development and digital marketing for dental care
+Comprehensive development and digital marketing application for dental care 
